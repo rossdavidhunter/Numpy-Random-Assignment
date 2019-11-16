@@ -1,8 +1,10 @@
 # Programming-For-Data-Analysis-Assessment 2019
 
-![](TD.PNG)
+                ![](RM.PNG)
 
 This repository contains my project in regards to review of random data using jupyter lab and numpy.random package as part of programming for data analysis module for Higher Diploma in Data Analytics, GMIT.
+
+1. https://github.com/brianmcginley/ProgDA/raw/master/ProgDA_Assignment.pdf
 
 
 # What you need
@@ -15,6 +17,7 @@ This repository contains my project in regards to review of random data using ju
 # References/Links
 
 1. https://github.com/
-2. 
+2. https://www.anaconda.com/distribution/#windows
+3. https://docs.scipy.org/doc/numpy-1.14.0/index.html
 
 
