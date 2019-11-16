@@ -10,4 +10,9 @@ This repository contains my project in regards to review of random data using ju
 3. Cmder installed on PC
 4. Access to Jupyter lab or Notebook via Cmder command
 
+# References/Links
+
+1. https://github.com/
+2. 
+
 
